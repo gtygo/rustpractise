@@ -1,0 +1,2 @@
+# rustpractise
+rust example
